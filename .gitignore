@@ -1,4 +1,6 @@
 venv/
+YOLO/*
+SunSpot/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
